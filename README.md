@@ -11,7 +11,7 @@
 
 如有兴趣，请加 QQ：191250436。加 Q 时请注明「设计资源」
 
-** 我们还在翻译国外的优秀设计文章，如果您有一定的设计背景和英文基础，欢迎[从这里申请加入我们](http://group.jobbole.com/category/feedback/trans-team/)。**
+**我们还在翻译国外的优秀设计文章，如果您有一定的设计背景和英文基础，欢迎[从这里申请加入我们](http://group.jobbole.com/category/feedback/trans-team/)。**
 
 
 ## 本项目的参与者
