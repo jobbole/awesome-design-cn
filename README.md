@@ -382,3 +382,11 @@
 *   [Superfamous](http://hao.jobbole.com/superfamous-studios/)：免费高质量图片素材
 *   [Little Visuals](http://hao.jobbole.com/little-visuals/)：免费高质量图片素材
 *   [Unsplash](http://hao.jobbole.com/unsplash/)： 高品质免费图片素材库
+
+
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* 设计的那些事 微博：[@设计的那些事](http://weibo.com/u/2088601913)
+* 设计的那些事：分享精选的设计相关文章、案例和行业动态。同时，也会不定期推荐设计教程、高薪职位和设计相关的优秀工具。
+<br><img src="http://ww1.sinaimg.cn/mw690/bfdcef89gw1evuvyavvvmj207607674r.jpg" width=150 height=150>
+* UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg" width=150 height=150>
+* 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg" width=150 height=150>
