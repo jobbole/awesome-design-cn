@@ -282,6 +282,7 @@
 *   [AdobeEdgeWebFonts](http://hao.importnew.com/adobeedgewebfonts/)：Adobe免费Web字体
 *   [Sizecalc](http://hao.importnew.com/sizecalc/)：字体大小计算器
 *   [Inkpad](http://hao.importnew.com/inkpad/)：iPad 矢量插图应用
+* [CreoArt Photo Editor](https://creoart.app/photo-editor)：免费无广告的浏览器本地 WebGPU PSD 图层编辑器，无需注册与上传即可打开、编辑与导出 PSD/PNG/WebP。
 
 ### 设计教程
 
